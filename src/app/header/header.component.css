@@ -1,0 +1,14 @@
+.d-flex{
+    width: 1000px;
+    margin: auto;
+    margin-top:3px;
+    display: block;
+    justify-content: center;
+}
+
+img{
+    width: 100px;
+    margin: -18px;
+    display: block;
+    justify-content: center;
+}
